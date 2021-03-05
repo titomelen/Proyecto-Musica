@@ -6,3 +6,5 @@
 
 
 # [Enlace a heroku](https://proyecto-musica.herokuapp.com/)
+
+He utilizado React y firebase para el login.
