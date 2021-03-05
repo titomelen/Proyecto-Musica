@@ -55,3 +55,10 @@ Está hecho con el provider de autenticación de firebase por email.
 >Una vez logueado
 
 ![image](https://user-images.githubusercontent.com/56442515/110181520-507cde00-7e0c-11eb-8f3f-45416e7ac740.png)
+
+
+
+>Una vez creado el email se almacena en la base de datos de firebase.
+
+![image](https://user-images.githubusercontent.com/56442515/110182614-6939c380-7e0d-11eb-9567-f4a5743bf3e7.png)
+
