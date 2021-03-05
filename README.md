@@ -27,17 +27,17 @@ Tiene también un botón para volver atrás
 
 
 >Esto sería el login, que si no estás registrado saldrá para escribir tu contraseña y te meterá en la base de datos de firebase.
-Está hecho con el provider de autenticación de firebase por email.
+Está hecho con el provider de autenticación de firebase por email
 ![image](https://user-images.githubusercontent.com/56442515/110181385-f845dc00-7e0b-11eb-9164-2b2430ddbed6.png)
 
 
->Así se crearía una cuenta.
+>Así se crearía una cuenta
 ![image](https://user-images.githubusercontent.com/56442515/110181465-21ff0300-7e0c-11eb-9174-c11bd999f6d0.png)
 
 
->Y así se entraría a dicha cuenta.
+>Y así se entraría a dicha cuenta
 ![image](https://user-images.githubusercontent.com/56442515/110181499-3f33d180-7e0c-11eb-9c2b-00654a1f5d41.png)
 
 
->Una vez logueado.
+>Una vez logueado
 ![image](https://user-images.githubusercontent.com/56442515/110181520-507cde00-7e0c-11eb-8f3f-45416e7ac740.png)
